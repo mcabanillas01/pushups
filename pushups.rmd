@@ -1,7 +1,7 @@
 ---
 title: "Who Does More Pushups"
-author: "Your Name"
-date: "Fall 2020"
+author: "Maria Cabanillas"
+date: "12/04/2020"
 output:
 html_document:
 number_sections: true
@@ -12,6 +12,7 @@ toc: true
 ```{r include=FALSE,echo=FALSE}
 require(tigerstats)
 require(tidyverse)
+data(pushups)
 ```
 
 # Introduction
