@@ -22,6 +22,14 @@ data(pushups)
 # Methods
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
+pushups is a numeric variable 
+position is categorical variable
+we will load the num~cat
+
+$H_0$ The null hypothesis there is no difference in the average number of pushups players can do in te=wo minutes based on the position they play.
+
+$H_A$ The alternative hypothesis states that there is a difference in the average number of pushups players can do in two minutes based on the position they play.
+
 
 # Results
 
